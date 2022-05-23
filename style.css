@@ -1,0 +1,22 @@
+/* commons */
+.text-center{
+    text-align: center;
+}
+h2{
+    color: goldenrod;
+}
+h3{
+    font-style: italic;
+}
+/* inizio stile header */
+header{
+    background-color: #EDEDED;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
+}
+
+#profile-pic{
+    height: 250px;
+}
+/* fine stile header */
