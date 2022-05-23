@@ -14,7 +14,16 @@ header{
     border-bottom-width: 2px;
     border-bottom-style: solid;
     border-bottom-color: goldenrod;
+    /* fine stile header */
+    /* inizio stile footer */
 }
+footer{
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: goldenrod;
+    font-size: 10px;
+}
+    /* fine stile footer */
 
 #profile-pic{
     height: 250px;
